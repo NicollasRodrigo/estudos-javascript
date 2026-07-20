@@ -15,4 +15,4 @@ Esta pasta organiza os estudos de Java de forma separada, mantendo o hub princip
 
 Registrar a evolucao dos estudos em Java com anotacoes curtas, exemplos e exercicios organizados por tema.
 
-[Voltar ao hub](https://github.com/NicollasRodrigo/formacao-tecnologia)
+[Voltar](https://github.com/NicollasRodrigo/formacao-tecnologia)
