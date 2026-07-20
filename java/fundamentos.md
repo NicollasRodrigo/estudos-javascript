@@ -11,4 +11,4 @@
 
 Registrar os primeiros conceitos da linguagem Java e exemplos basicos de pratica.
 
-[Voltar para Java](https://github.com/NicollasRodrigo/estudos-javascript/tree/main/java)
+[Voltar para Java](https://github.com/NicollasRodrigo/estudos-javascript)
