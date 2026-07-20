@@ -10,4 +10,4 @@
 
 Organizar estudos sobre tomada de decisao e repeticao em Java.
 
-[Voltar para Java](https://github.com/NicollasRodrigo/estudos-javascript)
+[Voltar](https://github.com/NicollasRodrigo/estudos-javascript)
