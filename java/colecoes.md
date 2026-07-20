@@ -11,4 +11,4 @@
 
 Organizar estudos sobre estruturas de dados prontas da linguagem Java.
 
-[Voltar para Java](https://github.com/NicollasRodrigo/estudos-javascript/tree/main/java)
+[Voltar para Java](https://github.com/NicollasRodrigo/estudos-javascript)
