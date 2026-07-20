@@ -11,4 +11,4 @@
 
 Registrar conceitos de orientacao a objetos e exemplos praticos usando Java.
 
-[Voltar para Java](./README.md)
+[Voltar para Java](https://github.com/NicollasRodrigo/estudos-javascript/tree/main/java)
