@@ -10,4 +10,4 @@
 
 Registrar praticas pequenas para fortalecer os fundamentos da linguagem.
 
-[Voltar para Java](https://github.com/NicollasRodrigo/estudos-javascript)
+[Voltar](https://github.com/NicollasRodrigo/estudos-javascript)
