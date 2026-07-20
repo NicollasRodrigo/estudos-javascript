@@ -5,14 +5,14 @@ Esta pasta organiza os estudos de Java de forma separada, mantendo o hub princip
 
 ## Conteudos
 
-- [Fundamentos](..https://github.com/NicollasRodrigo/estudos-javascript/blob/main/java/fundamentos.md)
-- [Estruturas de controle](..https://github.com/NicollasRodrigo/estudos-javascript/blob/main/java/estruturas-de-controle.md)
-- [Orientacao a objetos](..https://github.com/NicollasRodrigo/estudos-javascript/blob/main/java/orientacao-a-objetos.md)
-- [Colecoes](..https://github.com/NicollasRodrigo/estudos-javascript/blob/main/java/colecoes.md)
-- [Exercicios praticos](..https://github.com/NicollasRodrigo/estudos-javascript/blob/main/java/exercicios-praticos.md)
+- [Fundamentos](https://github.com/NicollasRodrigo/estudos-javascript/blob/main/java/fundamentos.md)
+- [Estruturas de controle](https://github.com/NicollasRodrigo/estudos-javascript/blob/main/java/estruturas-de-controle.md)
+- [Orientacao a objetos](https://github.com/NicollasRodrigo/estudos-javascript/blob/main/java/orientacao-a-objetos.md)
+- [Colecoes](https://github.com/NicollasRodrigo/estudos-javascript/blob/main/java/colecoes.md)
+- [Exercicios praticos](https://github.com/NicollasRodrigo/estudos-javascript/blob/main/java/exercicios-praticos.md)
 
 ## Objetivo
 
 Registrar a evolucao dos estudos em Java com anotacoes curtas, exemplos e exercicios organizados por tema.
 
-[Voltar ao hub](..https://github.com/NicollasRodrigo/estudos-javascript/tree/main/java)
+[Voltar ao hub](https://github.com/NicollasRodrigo/estudos-javascript/tree/main/java)
