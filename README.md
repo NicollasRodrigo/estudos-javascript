@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/30201319/README.md)
-[README.md](https://github.com/user-attachments/files/30199898/README.md)
+
 # Guia para Javascript
 
 Esta pasta organiza os estudos de Java de forma separada, mantendo o hub principal limpo e facil de navegar.
