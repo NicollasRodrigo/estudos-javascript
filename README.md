@@ -5,7 +5,7 @@ Este repositório reúne aulas, exercícios e materiais de estudo de JavaScript,
 ## Estrutura do projeto
 
 - [AULAS.md](./AULAS.md) — índice das trilhas de estudo.
-- [aula01-console-log](./aula01-console-log/) até [aula69-forEach](./aula69-forEach/) — pastas das aulas.
+- [Estudos JavaScript](./estudos-javascript/) — acesse cada aula separadamente (índice completo por aula dentro da pasta).
 - [estudos-javascript](./estudos-javascript/) — cópia complementar das aulas organizadas em subpastas.
 - [guia-javascript](./guia-javascript/) — material de apoio e referências.
 - [Exercicios](./Exercicios/) — índice e trilhas futuras.
