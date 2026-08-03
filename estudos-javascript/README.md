@@ -1,4 +1,4 @@
-# Índice: estudos-javascript
+﻿# Índice: estudos-javascript
 
 Este diretório contém cópias organizadas das aulas. Navegue por cada pasta de aula separadamente.
 
@@ -65,16 +65,15 @@ Este diretório contém cópias organizadas das aulas. Navegue por cada pasta de
 - [aula58-constructor-functions](./aula58-constructor-functions/)
 - [aula59-calculadora-com-constructor-function](./aula59-calculadora-com-constructor-function/)
 - [aula61-funcoes-geradoras](./aula61-funcoes-geradoras/)
-- [aula62 - Revisão do básico em Arrays](./aula62 - Revisão do básico em Arrays/)
-- [aula63-Método-Splice](./aula63-Método-Splice/)
-- [aula64-Concatenando arrays](./aula64-Concatenando arrays/)
-- [aula65-Filter-Filtrando o array](./aula65-Filter-Filtrando o array/)
-- [aula66-Mapeando-o-array](./aula66-Mapeando-o-array/)
-- [aula67-Reduzindo-o-array](./aula67-Reduzindo-o-array/)
-- [aula68-Filter+Map+Reduce](./aula68-Filter+Map+Reduce/)
-- [aula69-forEach](./aula69-forEach/)
+- [aula62-revisao-do-basico-em-arrays](./aula62-revisao-do-basico-em-arrays/)
+- [aula63-metodo-splice](./aula63-metodo-splice/)
+- [aula64-concatenando-arrays](./aula64-concatenando-arrays/)
+- [aula65-filter-filtrando-o-array](./aula65-filter-filtrando-o-array/)
+- [aula66-mapeando-o-array](./aula66-mapeando-o-array/)
+- [aula67-reduzindo-o-array](./aula67-reduzindo-o-array/)
+- [aula68-filter-map-reduce](./aula68-filter-map-reduce/)
+- [aula69-foreach](./aula69-foreach/)
 
 ## Voltar
 
 - [Voltar ao repositório raiz](../README.md)
-
