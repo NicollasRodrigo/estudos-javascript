@@ -21,7 +21,8 @@ Esta página organiza o conteúdo do repositório em trilhas claras, permitindo 
 - [Aula 48 - Lista de tarefas](./aula48-lista-de-tarefas/)
 - [Aula 57 - Factory functions](./aula57-praticando-factory-functions-calculadora/)
 - [Aula 61 - Funções geradoras](./aula61-funcoes-geradoras/)
-- [Aulas 62 a 69 - Arrays avançados](./aula62%20-%20Revis%C3%A3o%20do%20b%C3%A1sico%20em%20Arrays/)
+- [Aulas 62 a 69 - Arrays avançados](./aula62-revisao-do-basico-em-arrays/)
+- [Aula 69 - forEach](./aula69-foreach/)
 
 ## Acesso rápido
 

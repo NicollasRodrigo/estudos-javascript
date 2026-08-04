@@ -18,4 +18,11 @@ const pessoas = [
 ];
 const nomes = pessoas.map((obj) => obj.nome);
 const idades = pessoas.map((obj) => ({ idade: obj.idade }));
-console.log(idades);
+
+const comIds = pessoas.map(function (obj, indice) {
+	const newObj = { ...obj};
+	newObj.id = indice;
+	return newObj;
+});
+
+console.log(comIds);
