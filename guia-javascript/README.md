@@ -5,7 +5,7 @@ Esta pasta organiza os estudos de Java de forma separada, mantendo o hub princip
 
 ## Conteudos
 
-- [Fundamentos](https://github.com/NicollasRodrigo/estudos-javascript/blob/main/java/fundamentos.md)
+- [Fundamentos](https://github.com/NicollasRodrigo/estudos-javascript/blob/main/guia-javascript/fundamentos%20.md)
 - [Estruturas de controle](https://github.com/NicollasRodrigo/estudos-javascript/blob/main/java/estruturas-de-controle.md)
 - [Orientacao a objetos](https://github.com/NicollasRodrigo/estudos-javascript/blob/main/java/orientacao-a-objetos.md)
 - [Colecoes](https://github.com/NicollasRodrigo/estudos-javascript/blob/main/java/colecoes.md)
