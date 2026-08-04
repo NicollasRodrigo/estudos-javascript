@@ -2,9 +2,9 @@
 
 ## Conteudo
 
-- Exercicios de logica
-- Exercicios com classes
-- Exercicios com colecoes
+-  `Exercicios de logica `
+-  `Exercicios com classes `
+-  `Exercicios com colecoes `
 
 ## Objetivo
 
