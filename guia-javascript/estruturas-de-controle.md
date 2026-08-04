@@ -2,9 +2,10 @@
 
 ## Conteudo
 
-- `if` e `else`
+- `if` 
+-  `else`
 - `switch`
-- Lacos de repeticao
+- `Lacos de repeticao `
 
 ## Objetivo
 
