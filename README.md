@@ -4,7 +4,7 @@ Este repositório reúne aulas, exercícios e materiais de estudo de JavaScript,
 
 ## Estrutura do projeto
 
-- [AULAS.md](./AULAS.md) — índice das trilhas de estudo.
+- [AULAS.md](https://github.com/NicollasRodrigo/estudos-javascript/blob/main/estudos-javascript/AULAS.md) — índice das trilhas de estudo.
 - [Estudos JavaScript](./estudos-javascript/) — acesse cada aula separadamente (índice completo por aula dentro da pasta).
 - [estudos-javascript](./estudos-javascript/) — cópia complementar das aulas organizadas em subpastas.
 - [guia-javascript](./guia-javascript/) — material de apoio e referências.
@@ -13,7 +13,7 @@ Este repositório reúne aulas, exercícios e materiais de estudo de JavaScript,
 
 ## Como navegar
 
-- Comece por [AULAS.md](./AULAS.md) para acompanhar a sequência das aulas.
+- Comece por [AULAS.md](https://github.com/NicollasRodrigo/estudos-javascript/blob/main/estudos-javascript/AULAS.md) para acompanhar a sequência das aulas.
 - Use [Exercicios/00-indice.md](./Exercicios/00-indice.md) para acessar a organização dos exercícios.
 - Consulte [Java/README.md](./Java/README.md) para a seção dedicada ao Java.
 
