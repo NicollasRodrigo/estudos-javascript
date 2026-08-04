@@ -5,7 +5,7 @@
 - `List`
 - `Set`
 - `Map`
-- Iteracao
+- `Iteracao`
 
 ## Objetivo
 
