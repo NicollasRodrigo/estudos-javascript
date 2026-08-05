@@ -19,7 +19,7 @@ Este repositório reúne aulas, exercícios e materiais de estudo de JavaScript,
 
 ## Repositório no GitHub
 
-- GitHub: https://github.com/NicollasRodrigo/estudos-javascript.git
+- GitHub: https://github.com/NicollasRodrigo/formacao-tecnologia
 
 ## Objetivo
 
